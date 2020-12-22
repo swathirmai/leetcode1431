@@ -1,5 +1,5 @@
 # leetcode1431
-LeetCode 1431 Solution
+
 
 Given the array candies and the integer extraCandies, where candies[i] represents the number of candies that the ith kid has.
 
